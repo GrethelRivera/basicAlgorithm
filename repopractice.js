@@ -1,0 +1,5 @@
+console.log('Hello')
+console.log('Welcome to my repository practice workbook')
+console.log('Add Changes: git add fileName')
+console.log('Save Changes: git commit -m "first commit"')
+console.log('Push Changes: git push -u origin main ')
